@@ -1,0 +1,20 @@
+---
+title: "Adeyeye Seyi Joseph"
+image:  adeyeye.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/AdeSeyison?t=ULHp3aW4aRProCtpW0P0BQ&s=09
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/adeyeye-seyi-3124a213b/
+    - icon: github
+      text: Github
+      href: https://github.com/Crystal-analytics
+---
+
+Adeyeye Seyi Joseph is a data analyst, public administrator, lover of beautiful visualizations and a researcher. I love issues-based politics, value-driven statesmanship and people-centric leadership.
+
+
